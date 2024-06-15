@@ -1,0 +1,12 @@
+[submodule "revolunixpkgs"]
+	path = revolunixpkgs
+	url = git@github.com:RevoluNix/revolunixpkgs.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git@github.com:RevoluNix/dotfiles.git
+[submodule "pkgs/pkg-backup-cli"]
+	path = pkgs/pkg-backup-cli
+	url = git@github.com:RevoluNix/pkg-backup-cli.git
+[submodule "pkgs/pkg-template"]
+	path = pkgs/pkg-template
+	url = git@github.com:RevoluNix/pkg-template.git
