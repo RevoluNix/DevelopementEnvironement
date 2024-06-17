@@ -13,3 +13,6 @@
 [submodule "pkgs/pkg-citra"]
 	path = pkgs/pkg-citra
 	url = git@github.com:RevoluNix/pkg-citra.git
+[submodule "pkgs/backup-cli"]
+	path = pkgs/backup-cli
+	url = git@github.com:RevoluNix/backup-cli.git
