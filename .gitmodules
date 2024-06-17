@@ -10,3 +10,6 @@
 [submodule "pkgs/pkg-focus-rofi"]
 	path = pkgs/pkg-focus-rofi
 	url = git@github.com:RevoluNix/pkg-focus-rofi.git
+[submodule "pkgs/pkg-citra"]
+	path = pkgs/pkg-citra
+	url = git@github.com:RevoluNix/pkg-citra.git
