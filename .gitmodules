@@ -16,3 +16,18 @@
 [submodule "pkgs/backup-cli"]
 	path = pkgs/backup-cli
 	url = git@github.com:RevoluNix/backup-cli.git
+[submodule "pkgs/pkg-font-fixer"]
+	path = pkgs/pkg-font-fixer
+	url = git@github.com:RevoluNix/pkg-font-fixer.git
+[submodule "pkgs/pkg-global-fullscreen"]
+	path = pkgs/pkg-global-fullscreen
+	url = git@github.com:RevoluNix/pkg-global-fullscreen.git
+[submodule "pkgs/pkg-backup-cli"]
+	path = pkgs/pkg-backup-cli
+	url = git@github.com:RevoluNix/pkg-backup-cli.git
+[submodule "pkgs/pkg-ide"]
+	path = pkgs/pkg-ide
+	url = git@github.com:RevoluNix/pkg-ide.git
+[submodule "pkgs/pkg-rofi-beats"]
+	path = pkgs/pkg-rofi-beats
+	url = git@github.com:RevoluNix/pkg-rofi-beats.git
