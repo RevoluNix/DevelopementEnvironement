@@ -13,9 +13,6 @@
 [submodule "pkgs/pkg-citra"]
 	path = pkgs/pkg-citra
 	url = git@github.com:RevoluNix/pkg-citra.git
-[submodule "pkgs/backup-cli"]
-	path = pkgs/backup-cli
-	url = git@github.com:RevoluNix/backup-cli.git
 [submodule "pkgs/pkg-font-fixer"]
 	path = pkgs/pkg-font-fixer
 	url = git@github.com:RevoluNix/pkg-font-fixer.git
@@ -31,3 +28,21 @@
 [submodule "pkgs/pkg-rofi-beats"]
 	path = pkgs/pkg-rofi-beats
 	url = git@github.com:RevoluNix/pkg-rofi-beats.git
+[submodule "pkgs/pkg-rofi-bluetooth"]
+	path = pkgs/pkg-rofi-bluetooth
+	url = git@github.com:RevoluNix/pkg-rofi-bluetooth.git
+[submodule "pkgs/pkg-rofi-hyprshot"]
+	path = pkgs/pkg-rofi-hyprshot
+	url = git@github.com:RevoluNix/pkg-rofi-hyprshot.git
+[submodule "pkgs/pkg-rofi-mixer"]
+	path = pkgs/pkg-rofi-mixer
+	url = git@github.com:RevoluNix/pkg-rofi-mixer.git
+[submodule "pkgs/pkg-rofi-power"]
+	path = pkgs/pkg-rofi-power
+	url = git@github.com:RevoluNix/pkg-rofi-power.git
+[submodule "pkgs/pkg-rofi-vm"]
+	path = pkgs/pkg-rofi-vm
+	url = git@github.com:RevoluNix/pkg-rofi-vm.git
+[submodule "pkgs/pkg-rofi-wpa"]
+	path = pkgs/pkg-rofi-wpa
+	url = git@github.com:RevoluNix/pkg-rofi-wpa.git
