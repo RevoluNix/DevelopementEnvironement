@@ -46,3 +46,6 @@
 [submodule "pkgs/pkg-rofi-wpa"]
 	path = pkgs/pkg-rofi-wpa
 	url = git@github.com:RevoluNix/pkg-rofi-wpa.git
+[submodule "modules/module-virtual-machines"]
+	path = modules/module-virtual-machines
+	url = git@github.com:RevoluNix/module-virtual-machines.git
