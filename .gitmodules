@@ -49,3 +49,6 @@
 [submodule "modules/module-virtual-machines"]
 	path = modules/module-virtual-machines
 	url = git@github.com:RevoluNix/module-virtual-machines.git
+[submodule "modules/module-system"]
+	path = modules/module-system
+	url = git@github.com:RevoluNix/module-system.git
